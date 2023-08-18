@@ -1,4 +1,4 @@
 # Project Description
-This project aims to analysis the data on <a href="[https://ca.finance.yahoo.com/](https://financialpost.com/news/economy/canada-inflation-rate-higher-than-expected)"> FINANCIAL POST </a> using web-scraping and python.
-1. Sentiment analysis on the headers
-2. Sentiment analysis on the comments
+This project aims to analyze the crypto data on <a href="https://ca.finance.yahoo.com/crypto"> Yahoo! Finance </a> using web-scraping and python.
+1. Sentiment analysis on the news headers
+2. Data analysis on market data such as coin price
